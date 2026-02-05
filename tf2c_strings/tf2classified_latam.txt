@@ -1337,7 +1337,6 @@ El dueño del equipo de los Puntos de Control se asigna de forma aleatoria al co
 "TF_GlowEffects_Tip" 			  "Si se activa, los efectos de iluminado serán activados durante las partidas en objetivos como los VIPs, vagonetas, y los maletines con dosieres en CLB."
 
 // ViewModel
-
 "TF_ViewModelFOV"				"Campo de visión del modelo de vista"
 "TF_FlipViewModels"				"Invertir modelos de vista"
 "TF_InvisibleArms"				"Mano invisible en el modelo de vista en primera persona"
@@ -1356,7 +1355,6 @@ El dueño del equipo de los Puntos de Control se asigna de forma aleatoria al co
 "TF2c_Option_Proximity_Voice_Local"	"Habilitar chat de voz por proximidad."
 
 // Multiplayer
-
 "TF_MessageAlert"				  "Habilitar sonido al recibir mensaje de chat"
 "TF_MessageAlert_Tip"			  "Si se activa, escucharás un sonido cuando recibas un mensaje del chat"
 "TF_MessageVolume"				  "Volumen del sonido al recibir mensaje de chat"
@@ -1462,7 +1460,7 @@ El dueño del equipo de los Puntos de Control se asigna de forma aleatoria al co
 "TF2C_ACHIEVEMENT_ARCHAEOLOGY_NAME"						"Arqueología"
 "TF2C_ACHIEVEMENT_ARCHAEOLOGY_DESC"						"Descubre un tesoro escondido en Jinn."
 "TF2C_ACHIEVEMENT_AIRHOCKEY_NAME"						"Creador de jugadas"
-"TF2C_ACHIEVEMENT_AIRHOCKEY_DESC"						"Gana una partida de Hockey de Aire en 2Bridge."
+"TF2C_ACHIEVEMENT_AIRHOCKEY_DESC"						"Gana una partida de Hockey de Aire en 2Bridge contra otro jugador."
 "TF2C_ACHIEVEMENT_CHICKEN_ENVKILL_NAME"					"Jugada gallina"
 "TF2C_ACHIEVEMENT_CHICKEN_ENVKILL_DESC"					"Persigue a una gallina hacia una muerte ambiental." 
 "TF2C_ACHIEVEMENT_4TEAM_BACKSTAB_NAME"					"Agente triple"
