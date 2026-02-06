@@ -316,7 +316,7 @@
 "Tip_8_Count"	"15"
 // Generic
 "Tip_8_1"		"As a Spy, you can disguise yourself as an enemy with your Disguise Kit. Beware, as you can still bump into enemies, and attacking will remove your disguise."
-"Tip_8_2"		"As a Spy, call for enemy Medics by pressing %voicemenu 0 0% while disguised."
+"Tip_8_2"		"As a Spy, call for enemy Medics by pressing %helpme% while disguised."
 "Tip_8_3"		"As a Spy, try to act like an enemy while disguised. Observe where enemy team members are, and disguise as one of them."
 "Tip_8_4"		"As a Spy, pressing %reload% while disguised will make you appear to reload to enemy team members."
 "Tip_8_5"		"As a Spy, press %speed% to move at your normal running speed while disguised as slower classes."
@@ -642,6 +642,7 @@
 "Attrib_RocketJumpDmgReduction"		"%s1% self-inflicted explosive damage"
 "Attrib_Scattergun_HasKnockback"	"Deals knockback to victims and yourself"
 
+
 "Attrib_RocketGravity"								"Rockets travel in an arc"
 "Attrib_CreatesEarthquakeFallDamage"				"Create earthquake upon taking fall damage while active"
 "Attrib_TakeProjectileCritsAirborne"				"On Wearer: Take crits from projectiles while airborne"
@@ -726,6 +727,7 @@
 "Attrib_DamageDelaysRegeneration"					"Taking damage delays HP regen by %s1s"
 "Attrib_DestroyGrenadesDetonateOwn"					"Explosion destroys enemy grenades and detonates your own"
 "Attrib_HoldFirePreventDetonation"					"Hold Fire: Prevent grenade detonation"
+"Attrib_MiniCritAirborneEnemies"					"Mini-crits airborne enemies"
 "Attrib_CritAirborneEnemies"						"Crits airborne enemies"
 "Attrib_ModCritAirborneDirectHitOnly"				"Crits airborne enemies on direct hit only"
 "Attrib_ObjectivesGiveCrits"						"Deals crits to enemies capturing, defending, or carrying objectives"
@@ -1265,6 +1267,8 @@ Team ownership of Control Points is randomized at the start of each round."
 "GameUI_Restart"						"Restart required"
 "GameUI_RestartText"					"Some changes you have made require the game to be restarted:"
 "GameUI_OptionsRestart_Revert"			"Revert changes"
+
+"GameUI_Disconnect_TooManyCommands"		"Disconnect: Too many commands.
 
 // Combat
 "TF2C_Option_DamageFeedback"				"Enable damage feedback"
