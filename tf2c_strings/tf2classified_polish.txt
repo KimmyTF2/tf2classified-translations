@@ -31,7 +31,7 @@
 "Chat_Voice"			"(GŁOS) "
 
 // Chat Filters
-"Chat_Filter_Voice"		"Komendy Głosowe"
+"Chat_Filter_Voice"		"Komendy głosowe"
 
 // ----------------------------------------------------------------
 // General
@@ -60,7 +60,7 @@
 "TF_Other_Name"					"POZOSTAŁA"
 
 // Disguise Kit global disguise
-"Hud_Menu_Disguise_GlobalTeam"	"Globalne Przebranie: Każdy wróg będzie cię widział jako członka swojej drużyny."
+"Hud_Menu_Disguise_GlobalTeam"	"Globalne przebranie: Każdy wróg będzie cię widział jako członka swojej drużyny."
 
 // ----------------------------------------------------------------
 // Classes
@@ -73,9 +73,9 @@
 "TF_Class_Name_Civilian" 	"Cywil"
 
 "ClassTips_10_Count"	"3"
-"ClassTips_10_1"		"Wzmocnij sojusznika, aby dać mu przewagę w walce!"
+"ClassTips_10_1"		"Wzmocnij sojusznika, by dać mu przewagę w walce!"
 "ClassTips_10_1_Icon"	"chalf_circle"
-"ClassTips_10_2"		"Trzymaj się blisko sojuszników, aby zapewnić im odporność na obrażenia oraz pasywne leczenie!"
+"ClassTips_10_2"		"Trzymaj się blisko sojuszników, by zapewnić im odporność na obrażenia oraz pasywne leczenie!"
 "ClassTips_10_2_Icon"	"chalf_circle"
 "ClassTips_10_3"		"Bądź bezradny w walce!"
 "ClassTips_10_3_Icon"	"chalf_circle"
@@ -171,18 +171,18 @@
 // Scout
 "Tip_1_Count"	"10"
 // Generic
-"Tip_1_1"		"Skaut może podwójnie skoczyć w powietrzu, aby szybko zmienić kierunek."
+"Tip_1_1"		"Skaut może podwójnie skoczyć w powietrzu, by szybko zmienić kierunek."
 "Tip_1_2"		"Skaut przejmuje punkty kontrolne dwukrotnie szybciej niż inne klasy."
 "Tip_1_3"		"Skaut przewyższa prędkością wszystkie inne klasy. Przyciągnij uwagę wroga i błyskawicznie uciekaj!"
 // Stock
-"Tip_1_4"		"Dubeltówka jest śmiertelna z bliskiej odległości. Zmniejsz dystans między sobą a wrogami, aby zadać im spore obrażenia."
+"Tip_1_4"		"Dubeltówka jest śmiertelna z bliskiej odległości. Zmniejsz dystans między sobą a wrogami, by zadać im spore obrażenia."
 "Tip_1_5"		"Pistolet świetnie nadaje się do likwidowania wrogów z dużej odległości."
 "Tip_1_6"		"Kij zadaje mniej obrażeń niż inne bronie do walki wręcz, lecz pozwala na szybsze zamachy."
 // Death & Taxes
 "Tip_1_7"		"Pistolet na gwoździe zadaje spore obrażenia, nawet z daleka. Zostań w ruchu i strzelaj po łuku."
 "Tip_1_8"		"Niszczenie działek strażniczych jest banalnie proste za pomocą Pistoletu na gwoździe. Użyj go, gdy masz do czynienia z trudnymi gniazdami działek."
 // Fight or Flight
-"Tip_1_9"		"Cegła zadaje solidne obrażenia i silny odrzut. Odrzuć ludzi w powietrze!"
+"Tip_1_9"		"Cegła zadaje solidne obrażenia i silny odrzut. Odrzuć wrogów w powietrze!"
 "Tip_1_10"		"Cegła zada obrażenia minikrytyczne, gdy rzucisz nią z daleka."
 
 // Sniper
@@ -340,11 +340,11 @@
 "Tip_9_1"		"Inżynier potrzebuje metalu do budowy, napraw i ulepszania zbudowanych konstrukcji. Zbieraj bronie i paczki z amunicją, by odnowić swoje zasoby."
 "Tip_9_2"		"Inżynier może robić więcej niż tylko dbać o swoje konstrukcje. Włączaj się do walki i broń swoich konstrukcji, korzystając ze strzelby i pistoletu."
 "Tip_9_3"		"Uważaj na wrogich Szpiegów, którzy zakładają sapery na twoje konstrukcje. Możesz pozbyć się saperów, używając swojego klucza."
-"Tip_9_4"		"Pamiętaj o ulepszaniu swoich konstrukcji. Moją one zapewnić ogromne korzyści dla ciebie i twojej drużyny!"
-"Tip_9_5"		"Naciśnij %attack2% podczas przenoszenia konstrykcji, aby ją obrócić. Ustaw działka strażnicze i teleporty tak, aby były najskuteczniejsze dla twojej drużyny!"
+"Tip_9_4"		"Pamiętaj o ulepszaniu swoich konstrukcji. Mogą one zapewnić ogromne korzyści dla ciebie i twojej drużyny!"
+"Tip_9_5"		"Naciśnij %attack2% podczas przenoszenia konstrykcji, by ją obrócić. Ustaw działka strażnicze i teleporty tak, by były najskuteczniejsze dla twojej drużyny!"
 // Stock
-"Tip_9_6"		"Twój pistolet ma dużo zapasowej amunicji. Wykorzystaj ją, aby zwabić wrogów do siebie i swojego działka strażniczego albo zastosuj bardziej agresywne podejście."
-"Tip_9_7"		"Możesz rozbroić paczki dynamitu wroga, uderzając je kluczem."
+"Tip_9_6"		"Twój pistolet ma dużo zapasowej amunicji. Wykorzystaj ją, by zwabić wrogów do siebie i swojego działka strażniczego albo zastosuj bardziej agresywne podejście."
+"Tip_9_7"		"Możesz rozbroić Paczki dynamitu wroga, uderzając je kluczem."
 "Tip_9_8"		"Uderzanie kluczem w konstrukcje sojusznika naprawia je i ulepsza."
 "Tip_9_9"		"Za pomocą PDA konstrukcji możesz stawiać działka strażnicze i inne pomocnicze konstrukcje."
 "Tip_9_10"		"Działka strażnicze nie są przeznaczone wyłącznie do obrony. Rozkładaj je szybko w ukrytych miejscach, by wesprzeć atak."
@@ -356,20 +356,20 @@
 "Tip_9_16"		"Uderzenie kluczem w wejście lub wyjście teleportu, zawsze naprawia i ulepsza obie konstrukcje!"
 // Death & Taxes
 "Tip_9_17"		"W pełni naładowane strzały z Cewkownika mogą odbijać się od ścian i zadawać większe obrażenia."
-"Tip_9_18"		"Cewkownik, gdy przeciążony, może spowodować mały wybuch. Użyj go, aby dotrzeć do wcześniej niedostępnych miejsc."
+"Tip_9_18"		"Cewkownik, gdy przeciążony, może spowodować mały wybuch. Użyj go, by dotrzeć do wcześniej niedostępnych miejsc."
 // Fight or Flight
-"Tip_9_19"		"Skocznie pozwalają twojej drużynie dosięgnąć trudno dostępnych miejsc. Postaw je tak, aby mniej sprawni członkowie drużyny mogli dostać się na parapety i dachy!"
+"Tip_9_19"		"Skocznie pozwalają twojej drużynie dosięgnąć trudno dostępnych miejsc. Postaw je tak, by mniej sprawni członkowie drużyny mogli dostać się na gzymsy i dachy!"
 "Tip_9_20"		"Skocznie pozwalają członkom drużyny skakać przed siebie z dużą prędkością. Stawiaj je na otwartym terenie, który pozwala na szybkie przemieszczanie się."
 
 // Civilian
 "Tip_10_Count"	"11"
 // Generic
-"Tip_10_1"		"Cywil jest dość wolny. Postaraj się nadążyć za członkami swojej drużyny, aby zwiększyć swoje szanse na przetrwanie."
+"Tip_10_1"		"Cywil jest dość wolny. Postaraj się nadążyć za członkami swojej drużyny, by zwiększyć swoje szanse na przetrwanie."
 "Tip_10_2"		"Cywil jest najniższy ze wszystkich członków swojej drużyny. Może to być przydatne do ukrywania się za nimi."
 "Tip_10_3"		"Tylko Cywil może przejmować punkty kontrolne w trybach VIP i Wyścig VIP-ów."
 "Tip_10_4"		"Uważaj na wrogich Snajperów i Szpiegów, gdyż mogą cię zabić w mgnieniu oka."
-"Tip_10_5"		"Bliscy członkowie drużyny odczują efekt twojego moralnego wsparcia, dając im lekkie wzmocnienie obrony i leczenie. Staraj się unikać pola widzenia wroga i trzymaj się swojej drużyny."
-"Tip_10_6"		"Naciśnij %attack2% patrząc na członka drużyny, aby go wzmocnić, dając mu ogromną przewagę w walce."
+"Tip_10_5"		"Pobliscy członkowie drużyny odczują efekt twojego moralnego wsparcia, dając im lekkie wzmocnienie obrony i leczenie. Staraj się unikać pola widzenia wroga i trzymaj się swojej drużyny."
+"Tip_10_6"		"Naciśnij %attack2% patrząc na członka drużyny, by go wzmocnić, dając mu ogromną przewagę w walce."
 // Stock
 "Tip_10_7"		"Parasol nie jest zbyt skuteczny jako broń i należy go używać tylko w nagłych przypadkach. Pozwól swoim członkom drużyny walczyć za ciebie."
 "Tip_10_8"		"Parasol przyznaje trafienia minikrytyczne wybranemu członkowi drużyny. Wzmacniaj klasy, które są w stanie zadawać dużą ilość obrażeń."
@@ -382,13 +382,13 @@
 "Tip_arena_Count"		"9"
 "Tip_arena_1"			"W trybie Arena, zwracaj uwagę na liczbę graczy widoczną na górze ekranu. Dzięki temu dowiesz się, czy masz przewagę liczebną!"
 "Tip_arena_2"			"W trybie Arena, istnieje bardzo mało źródeł odnawiania zdrowia, warto więc chronić swoich Medyków i Inżynierów (oraz dzielić się swoją Kanapką)!"
-"Tip_arena_3"			"W trybie Arena, punkt kontrolny na środku mapy aktywuje się 60 sekund po rozpoczęciu rundy. Wykorzystaj to, aby wywabić ukrywających się wrogów!"
+"Tip_arena_3"			"W trybie Arena, punkt kontrolny na środku mapy aktywuje się 60 sekund po rozpoczęciu rundy. Wykorzystaj to, by wywabić ukrywających się wrogów!"
 "Tip_arena_4"			"W trybie Arena, nie odradzasz się, więc nie umieraj!"
 "Tip_arena_5"			"W trybie Arena, spróbuj urozmaicić swoją drużynę! Postaraj się uzupełnić skład swojej drużyny lub przeciwdziałać drużynie wroga."
 "Tip_arena_6"			"W trybie Arena, możesz zmienić klasę tylko na początku meczu, przed otwarciem bram."
 "Tip_arena_7"			"W trybie Arena, staraj trzymać się razem ze swoją drużyną i pomagajcie sobie nawzajem w niebezpieczeństwie. Spóźnienie się na walkę może postawić cię w niekorzystnej sytuacji."
-"Tip_arena_8"			"W trybie Arena, bardzo ważne jest pozbawianie drużyny przeciwnej możliwości leczenia. Atakuj wrogich Medyków i Zasobniki i blokuj dostęp do apteczek, kiedy to tylko możliwe!"
-"Tip_arena_9"			"W trybie Arena, zdobycie pierwszej krwi zapewnia trafienie krytyczne. Jak już je zdobędziesz, wykorzystaj to! Jeżeli wróg je zdobędzie, nie rzucaj się w oczy i poczekaj, aż one się skończą."
+"Tip_arena_8"			"W trybie Arena, bardzo ważne jest pozbawianie drużyny przeciwnej możliwości leczenia. Atakuj wrogich Medyków i zasobniki, i blokuj dostęp do apteczek, kiedy to tylko możliwe!"
+"Tip_arena_9"			"W trybie Arena, zdobycie pierwszej krwi zapewnia trafienia krytyczne. Jeśli je zdobędziesz, wykorzystaj je! Jeżeli zdobędzie je wróg, nie rzucaj się w oczy i poczekaj, aż się skończą."
 
 // ----------------------------------------------------------------
 // Stock weapon strings
@@ -435,7 +435,7 @@
 "TF_Weapon_SniperRifle_Desc"	"Spełnia swoje zadanie."
 // Minigun
 "TF_Weapon_Minigun"			"Minigun"
-"TF_Weapon_Minigun_Desc"	"Sascha nie słucha się Grubego. Myślisz, że będzie słuchać CIEBIE?"
+"TF_Weapon_Minigun_Desc"	"Sasza nie słucha się Grubego. Myślisz, że będzie słuchać CIEBIE?"
 // SMG
 "TF_Weapon_SMG"			"PM"
 "TF_Weapon_SMG_Desc"	"No i co ty na to? Oboje jesteśmy bardziej niebezpieczni z bliska."
@@ -453,7 +453,7 @@
 "TF_Weapon_StickybombLauncher_Desc"	"Sam wyślę ich prosto do nieba, jeżeli zajdzie taka potrzeba."
 // Flame Thrower
 "TF_Weapon_FlameThrower"		"Miotacz ognia"
-"TF_Weapon_FlameThrower_Desc"	"Sytuacja nabiera tempa..."
+"TF_Weapon_FlameThrower_Desc"	"Robi się gorąco..."
 // Pistol
 "TF_Weapon_Pistol"					"Pistolet"
 "TF_Weapon_Pistol_Desc_Engineer"	"Tańcz, chłopcze."
@@ -474,7 +474,7 @@
 "TF_Weapon_Medigun_Desc"	"Wszyscy macie tę samą grupę krwi, prawda? Odrobinkę?"
 // Invis Watch
 "TF_Weapon_InvisWatch"		"Zegarek niewidzialności"
-"TF_Weapon_InvisWatch_Desc"	"Eleganckie. Szkoda, że nigdy tego nie zobaczą."
+"TF_Weapon_InvisWatch_Desc"	"Elegancki. Szkoda, że nigdy tego nie zobaczą."
 // Sapper
 "TF_Weapon_Sapper"		"Saper"
 "TF_Weapon_Sapper_Desc"	"Kto to tam zostawił?"
@@ -530,7 +530,7 @@
 "TF_Weapon_DynamitePack_Desc"	"Jutro rozpadniesz się na kawałki."
 // Coilgun
 "TF_Weapon_Coilgun"			"Cewkownik"
-"TF_Weapon_Coilgun_Desc"	"Bez steku, ale za to dużo stwierczenia."
+"TF_Weapon_Coilgun_Desc"	"Bez steku, ale za to dużo skwierczenia."
 // Mine Layer
 "TF_Weapon_MineLayer"		"Rozstawiacz min"
 "TF_Weapon_MineLayer_Desc"	"Ej, miej oczy szeroko otwarte! Heh..."
@@ -559,7 +559,7 @@
 "TF_Weapon_PDAJumpPad_Desc"	"Stary, zaufaj mi. To cię zaskoczy."
 // Harvester
 "TF_Weapon_Harvester"		"Plonobójca"
-"TF_Weapon_Harvester_Desc"	"Przeto nigdy nie pytaj, komu bije dzwon"
+"TF_Weapon_Harvester_Desc"	"Przeto nigdy nie pytaj, komu bije dzwon."
 // Brick
 "TF_Weapon_Brick"		"Cegła"
 "TF_Weapon_Brick_Desc"	"Nie sądziłem, że jesteś AŻ TAK wolny."
@@ -572,7 +572,7 @@
 "TF_Weapon_Rejuvenator"			"Rewitalizator"
 "TF_Weapon_Rejuvenator_Desc"	"Staraj się unikać kontaktu z ustami i oczami."
 // Admiralty Anchor
-"TF_Weapon_AdmiraltyAnchor"			"Kotwica Admiralicji"
+"TF_Weapon_AdmiraltyAnchor"			"Kotwica admiralicji"
 "TF_Weapon_AdmiraltyAnchor_Desc"	"W mojej jednostce nie ma miejsca na prostackie żarty o flocie."
 // Derby Cane
 "TF_Weapon_DerbyCane"		"Laska z Derby"
@@ -642,7 +642,7 @@
 "Attrib_RocketJumpDmgReduction"		"%s1% obrażeń od wybuchu podczas rakietowych skoków"
 "Attrib_Scattergun_HasKnockback"	"Odrzucenie celu i strzelca"
 
-"Attrib_RocketGravity"								"Rockets travel in an arc"
+"Attrib_RocketGravity"								"Rakiety poruszają się po łuku"
 "Attrib_CreatesEarthquakeFallDamage"				"Create earthquake upon taking fall damage while active"
 "Attrib_TakeProjectileCritsAirborne"				"On Wearer: Take crits from projectiles while airborne"
 "Attrib_Gravity_Active_Increased"					"+%s1% gravity while active"
@@ -771,15 +771,15 @@
 
 // vip_mineside
 "vip_mineside_description"	"Cel:
-Drużyna RED wygrywa, jeżeli powstrzyma VIP-a przed dotarciem do Strefy Ucieczki. Drużyna BLU wygrywa, jeżeli eskortuje VIP-a do Strefy Ucieczki.
+Drużyna RED wygrywa, jeśli powstrzyma VIP-a przed dotarciem do strefy ucieczki. Drużyna BLU wygrywa, jeśli odeskortuje VIP-a do strefy ucieczki.
 
 Inne uwagi:
-Strefa Ucieczki nie może zostać otwarta, dopóki nie dostarczysz Urządzenia w Walizce do pokoju kontrolnego przy bramie Strefy Ucieczki.
+Strefa ucieczki nie może zostać otwarta, dopóki nie dostarczysz urządzenia w walizce do pokoju kontrolnego przy bramie strefy ucieczki.
 
-Jeżeli drużyna BLU dostarczy Urządzenie w Walizce, licznik bramy zacznie odliczać 60 sekund, po czym brama ponownie się zamknie."
+Jeżeli drużyna BLU dostarczy urządzenie w walizce, licznik bramy zacznie odliczać 60 sekund, po czym brama ponownie się zamknie."
 
-"Mineside_setup_goal_red"	"Zabij VIP-a, aby nie dotarł do Strefy Ucieczki. Powstrzymaj go przed zdobyciem urządzenia."
-"Mineside_setup_goal_blu"	"Eskortuj VIP-a do Strefy Ucieczki. Dostarcz urządzenie do pokoju kontrolnego, aby otworzyć bramę."
+"Mineside_setup_goal_red"	"Zabij VIP-a, by nie dotarł do strefy ucieczki. Powstrzymaj go przed zdobyciem urządzenia."
+"Mineside_setup_goal_blu"	"Eskortuj VIP-a do strefy ucieczki. Dostarcz urządzenie do pokoju kontrolnego, by otworzyć bramę."
 
 "Mineside_escape_zone"	"tunel ewakuacyjny"
 
@@ -798,14 +798,14 @@ Jeżeli drużyna BLU dostarczy Urządzenie w Walizce, licznik bramy zacznie odli
 
 // 4dom_krepost
 "dom_krepost_description"	"Cel:
-Aby wygrać, każda drużyna musi przejąć i utrzymać aktywny punkt kontrolny, aby zdobywać punkty.
+Aby wygrać, każda drużyna musi przejąć i utrzymać aktywny punkt kontrolny, by zdobywać punkty.
 
 Co 60 sekund zmienia się aktywny punkt kontrolny na bazę losowej drużyny.
 
 Inne uwagi:
 Walka o punkt kontrolny zatrzymuje zdobywanie punktów przez wroga.
 
-Aktywny punkt kontrolny zostanie zablokowanu po wybraniu nowego punktu kontrolnego.
+Aktywny punkt kontrolny zostanie zablokowany po wybraniu nowego punktu kontrolnego.
 
 Wyłącznie honorowa walka na pięści i miecze!"
 
@@ -820,7 +820,7 @@ Wyłącznie honorowa walka na pięści i miecze!"
 "Krepost_attack_ylw"	"Brama YLW została otwarta!"
 
 // td_caper
-"Caper_cap_A"	"punkt A, wieże laserową"
+"Caper_cap_A"	"punkt A, wieżę laserową"
 "Caper_cap_B"	"punkt B, silosy"
 "Caper_cap_C"	"punkt C, kanalizację"
 
@@ -848,8 +848,8 @@ Wyłącznie honorowa walka na pięści i miecze!"
 "Sunnyside_cap_C"	"punkt C, kurniki"
 
 // vip_avanti
-"Avanti_red_setup_goal"		"Zejdź w dół i zabij VIP-a wroga, aby nie dotarł do Strefy Ucieczki!"
-"Avanti_blue_setup_goal"	"Wejdź na górę i eskortuj VIP-a do Strefy Ucieczki!"
+"Avanti_red_setup_goal"		"Zejdź w dół i zabij wrogiego VIP-a, by nie dotarł do strefy ucieczki!"
+"Avanti_blue_setup_goal"	"Wejdź na górę i eskortuj VIP-a do strefy ucieczki!"
 "Avanti_cap_1"				"magazyn"
 "Avanti_cap_2"				"taras"
 "Avanti_cap_3"				"dzwonnicę"
@@ -865,29 +865,29 @@ Wyłącznie honorowa walka na pięści i miecze!"
 
 "Gametype_CTF_Penguin"		"Zdobądź pingwina" // We have fun here
 "Gametype_Domination"		"Dominacja"
-"Gametype_MedDomination"	"Dominacja (Średniowieczny)"
+"Gametype_MedDomination"	"Dominacja (Średniowiecze)"
 "Gametype_KOTF"				"Król flagi"
 "Gametype_TD"				"Kontrola terytorialna"
 "Gametype_VIP"				"VIP"
 "Gametype_VIPRace"			"Wyścig VIP-ów"
 
-"Gametype_FourTeam"			"Czterodrużynowy"
+"Gametype_FourTeam"			"Czterodrużyny"
 
-"Gametype_Arena_FourTeam"			"Arena (Czterodrużynowy)"
-"Gametype_AttackDefense_FourTeam"	"Atak / Obrona (Czterodrużynowy)"
-"Gametype_CP_FourTeam"				"Punkty kontrolne (Czterodrużynowy)"
-"Gametype_CTF_FourTeam"				"Zdobądź flagę (Czterodrużynowy)"
-"Gametype_Domination_FourTeam"		"Dominacja (Czterodrużynowy)"
-"Gametype_MedDomination_FourTeam"	"Dominacja (Średniowieczny Czterodrużynowy)"
-"Gametype_KOTF_FourTeam"			"Król flagi (Czterodrużynowy)"
-"Gametype_Koth_FourTeam"			"Król wzgórza (Czterodrużynowy)"
-"Gametype_Escort_FourTeam"			"Ładunek (Czterodrużynowy)"
-"Gametype_EscortRace_FourTeam"		"Wyścig ładunków (Czterodrużynowy)"
-"Gametype_SD_FourTeam"				"Dostawa specjalna (Czterodrużynowy)"
-"Gametype_TD_FourTeam"				"Kontrola terytorialna (Czterodrużynowy)"
-"Gametype_Training_FourTeam"		"Szkolenie (Czterodrużynowy)"
-"Gametype_VIP_FourTeam"				"VIP (Czterodrużynowy)"
-"Gametype_VIPRace_FourTeam"			"Wyścig VIP-ów (Czterodrużynowy)"
+"Gametype_Arena_FourTeam"			"Arena (Czterodrużyny)"
+"Gametype_AttackDefense_FourTeam"	"Atak/obrona (Czterodrużyny)"
+"Gametype_CP_FourTeam"				"Punkty kontrolne (Czterodrużyny)"
+"Gametype_CTF_FourTeam"				"Zdobądź flagę (Czterodrużyny)"
+"Gametype_Domination_FourTeam"		"Dominacja (Czterodrużyny)"
+"Gametype_MedDomination_FourTeam"	"Dominacja (Średniowiecze Czterodrużyny)"
+"Gametype_KOTF_FourTeam"			"Król flagi (Czterodrużyny)"
+"Gametype_Koth_FourTeam"			"Król wzgórza (Czterodrużyny)"
+"Gametype_Escort_FourTeam"			"Ładunek (Czterodrużyny)"
+"Gametype_EscortRace_FourTeam"		"Wyścig ładunków (Czterodrużyny)"
+"Gametype_SD_FourTeam"				"Dostawa specjalna (Czterodrużyny)"
+"Gametype_TD_FourTeam"				"Kontrola terytorialna (Czterodrużyny)"
+"Gametype_Training_FourTeam"		"Szkolenie (Czterodrużyny)"
+"Gametype_VIP_FourTeam"				"VIP (Czterodrużyny)"
+"Gametype_VIPRace_FourTeam"			"Wyścig VIP-ów (Czterodrużyny)"
 
 // Offline practice descriptions
 "TF_GameModeDesc_VIP"			"Drużyna BLU eskortuje Cywila. Drużyna RED musi ich powstrzymać."
@@ -903,24 +903,24 @@ Wyłącznie honorowa walka na pięści i miecze!"
 
 // Domination
 "default_dom_description"	"Cel:
-Aby wygrać, każda drużyna musi przejąć i utrzymać aktywny punkt kontrolny, aby zdobywać punkty. Im więcej punktów kontrolnych posiadasz, tym szybciej zdobywasz punkty.
+Aby wygrać, każda drużyna musi przejąć i utrzymać aktywny punkt kontrolny, by zdobywać punkty. Im więcej punktów kontrolnych posiadasz, tym szybciej zdobywasz punkty.
 
 Inne uwagi:
 Walka o punkt kontrolny zatrzymuje zdobywanie punktów z tego punktu kontrolnego przez wroga.
 
-Jeżeli twoja drużyna przegrywa, przejmij wszystkie punkty kontrolne, aby zdobyć bonusowe punkty."
+Jeżeli twoja drużyna przegrywa, przejmij wszystkie punkty kontrolne, by zdobyć bonusowe punkty."
 
-"domination_setup_goal"	"Przejmij punkty kontrolne, aby zdobyć z czasem punkty. Przejęcie więcej niż jednego punktu zwiększa twoje szanse na zwycięstwo!"
+"domination_setup_goal"	"Przejmij punkty kontrolne, by zdobyć z czasem punkty. Przejęcie więcej niż jednego punktu zwiększa twoje szanse na zwycięstwo!"
 
 // VIP
 "default_vip_description"	"Cel:
-Drużyna BLU wygrywa eskortując VIP-a do Strefy Ucieczki zanim skończy się czas. Drużyna RED wygrywa, jeżeli go powstrzyma przed dotarciem do Strefy Ucieczki.
+Drużyna BLU wygrywa eskortując VIP-a do strefy ucieczki zanim skończy się czas. Drużyna RED wygrywa, jeżeli go powstrzyma przed dotarciem do strefy ucieczki.
 
 Inne uwagi:
 Drużyna BLU może wstrzymać postęp przejmowania punktu kontrolnego, jeżeli VIP się na nim nie znajduje."
 
-"vip_setup_goal_offense"	"Eskortuj VIP-a do Strefy Ucieczki."
-"vip_setup_goal_defense"	"Zabij VIP-a wrogiej drużyny, aby powstrzymać go przed dotarciem do Strefy Ucieczki."
+"vip_setup_goal_offense"	"Eskortuj VIP-a do strefy ucieczki."
+"vip_setup_goal_defense"	"Zabij wrogiego VIP-a, by powstrzymać go przed dotarciem do strefy ucieczki."
 
 "TF_VIP_Assigned"				"%s1 został VIP-em!"
 "TF_VIP_Tutorial_Annotation_2"	"Zapewnia defensywne wzmocnienie sojusznikom w pobliżu oraz\nmoże tymczasowo wzmocnić członka swojej drużyny trafieniami minikrytycznymi!"
@@ -930,8 +930,8 @@ Drużyna BLU może wstrzymać postęp przejmowania punktu kontrolnego, jeżeli V
 "Cant_cap_civilian_only_frozen"	"Przejmowanie wstrzymane\n Tylko VIP może\n przejąć ten punkt."
 
 // VIP (Lives)
-"vipl_setup_goal_offense"	"Eskortuj VIP-a do Strefy Ucieczki. Powstrzymaj przed jego eliminacją."
-"vipl_setup_goal_defense"	"Aby wygrać, zabij VIP-a wrogiej drużyny albo powstrzymaj go przed dotarciem do Strefy Ucieczki."
+"vipl_setup_goal_offense"	"Eskortuj VIP-a do strefy ucieczki. Nie dopuść do jego eliminacji."
+"vipl_setup_goal_defense"	"Aby wygrać, zabij VIP-a wrogiej drużyny albo powstrzymaj go przed dotarciem do strefy ucieczki."
 
 // VIP (Flags)
 "vip_bring_flag_here"	"Przynieś urządzenie tutaj!"
@@ -943,17 +943,17 @@ Drużyna BLU może wstrzymać postęp przejmowania punktu kontrolnego, jeżeli V
 
 // VIP Race
 "default_vipr_description"	"Cel:
-Aby wygrać, eskortuj VIP-a do punktów kontrolnych, a potem do Strefy Ucieczki. Zabij VIP-a wroga, aby zresetować przejęte przez nich punkty kontrolne.
+Aby wygrać, eskortuj VIP-a do punktów kontrolnych, a potem do strefy ucieczki. Zabij wrogiego VIP-a, by zresetować przejęte przez niego punkty kontrolne.
 
 Inne uwagi:
 Jeżeli twój VIP zginie, stracisz wszystkie punkty kontrolne, które twój VIP przejął.
 
 Każda drużyna może wstrzymać postęp przejmowania punktu kontrolnego, jeżeli jej VIP się na nim nie znajduje.
 
-Zabij VIP-a wroga, aby wygrać rundę, gdy nastąpi Nagła Śmierć!"
+Zabij wrogiego VIP-a, by wygrać rundę, gdy nastąpi nagła śmierć!"
 
-"vipr_setup_goal"		"Eskortuj swojego VIP-a do punktów kontrolnych. Zatrzymaj wrogiego VIP-a przed tym samym!"
-"vipr_setup_goal_4team"	"Eskortuj swojego VIP-a do punktów kontrolnych. Zatrzymaj wrogą drużyne przed tym samym!"
+"vipr_setup_goal"		"Eskortuj swojego VIP-a do punktów kontrolnych. Powstrzymaj wrogiego VIP-a przed tym samym!"
+"vipr_setup_goal_4team"	"Eskortuj swojego VIP-a do punktów kontrolnych. Powstrzymaj wrogie drużyny przed tym samym!"
 
 "vipr_cap_wrong_vip"	"Przejmij punkt kontrolny WROGA, głuptasie!"
 "vipr_own_civ_death"	"Twój VIP został wyeliminowany! Chroń go!"
@@ -964,7 +964,7 @@ Zabij VIP-a wroga, aby wygrać rundę, gdy nastąpi Nagła Śmierć!"
 "vipr_cap_b_reset_vip"	"Nie żyjesz! Punkt kontrolny B został zresetowany!"
 
 "vipr_central_point"		"centralny punkt kontrolny"
-"vipr_cap_mid_reset"		"centralny punkt kontrolny został zresetowany!"
+"vipr_cap_mid_reset"		"Centralny punkt kontrolny został zresetowany!"
 "vipr_death_cap_mid_reset"	"Nie żyjesz! Centralny punkt kontrolny został zresetowany!"
 
 "vipr_red_civ_death"	"VIP drużyny RED został wyeliminowany!"
@@ -972,7 +972,7 @@ Zabij VIP-a wroga, aby wygrać rundę, gdy nastąpi Nagła Śmierć!"
 "vipr_ylw_civ_death"	"VIP drużyny YLW został wyeliminowany!"
 "vipr_grn_civ_death"	"VIP drużyny GRN został wyeliminowany!"
 
-"vipr_escape_zone"	"Strefa Ucieczki"
+"vipr_escape_zone"	"strefę ucieczki"
 
 // Territorial Domination
 "default_td_description"			"Cel:
@@ -984,7 +984,7 @@ Odradzasz się na punktach kontrolnych, które posiadasz.
 Własność punktów kontrolnych przez drużyny jest losowana na początku każdej rundy."
 
 // Payload Race (Four-Team)
-"4plr_goal"	"Przemieść wózek na koniec torów, aby wygrać!"
+"4plr_goal"	"Przemieść wózek do końca torów, by wygrać!"
 
 "4plr_cap_red"	"punkt przejęcia RED"
 "4plr_cap_blu"	"punkt przejęcia BLU"
@@ -1012,7 +1012,7 @@ Własność punktów kontrolnych przez drużyny jest losowana na początku każd
 "TF_IM_Steel_FinalCap"	"Punkt E jest stale dostępny. Drużyna BLU może go przejąć w dowolnym momencie."
 "TF_IM_Steel_Points"	"Przejęcie punktów A, B, C i D ułatwi zdobycie E!"
 "TF_IM_Steel_CapA"	"Przejęcie A otwiera dodatkowe przejścia do B i E."
-"TF_IM_Steel_CapB"	"Przejęcie B przesuwa pomieszczenie odrodzenia drużyny RED i otwiera dodatkowe przejście do C."
+"TF_IM_Steel_CapB"	"Przejęcie B przesuwa strefę odradzania drużyny RED i otwiera dodatkowe przejście do C."
 "TF_IM_Steel_CapC"	"Przejęcie C przedłuża most do E."
 "TF_IM_Steel_CapD"	"Przejęcie D utrudnia drużynie RED łatwe dotarcie do E."
 "TF_IM_Steel_Bridge"	"Bez mostów E jest nieosiągalne dla wszystkich."
@@ -1021,9 +1021,9 @@ Własność punktów kontrolnych przez drużyny jest losowana na początku każd
 // VIP Race
 "TF_IM_VIPR_Intro"	"Witamy w trybie Wyścig VIP-ów"
 "TF_IM_VIPR_ToWin"	"Aby wygrać, musisz pomóc swojemu VIP-owi przejąć punkt kontrolny wroga..."
-"TF_IM_VIPR_Escape"	"...a następnie odeskortuj go do Strefy Ucieczki, zanim wroga drużyna zrobi to samo!"
-"TF_IM_VIPR_Death"	"Jeżeli VIP zginie to wszystkie punkty, które zostały przejęte zostaną zresetowane"
-"TF_IM_VIPR_HUD"	"Status i progres obu VIP-ów znajdziesz na dole ekranu"
+"TF_IM_VIPR_Escape"	"...a następnie odeskortuj go do strefy ucieczki, zanim wroga drużyna zrobi to samo!"
+"TF_IM_VIPR_Death"	"Jeżeli VIP zginie, wszystkie punkty, które zostały przez niego przejęte, zostaną zresetowane."
+"TF_IM_VIPR_HUD"	"Status i progres obu VIP-ów znajdziesz na dole ekranu."
 
 // ----------------------------------------------------------------
 // Scoreboard
@@ -1097,12 +1097,12 @@ Własność punktów kontrolnych przez drużyny jest losowana na początku każd
 "TF_Menu_Welcome"			"Witaj ponownie,"
 
 "TF_Menu_ResumeGame"		"Wznów Grę"
-"TF_Menu_Mute"				"Wycisz Graczy"
+"TF_Menu_Mute"				"Wycisz graczy"
 "TF_Menu_Vote"				"Głosowanie"
 
-"TF_Menu_FindServers"		"Znajdź Serwery"
-"TF_Menu_CreateServer"		"Stwórz Serwer"
-"TF_Menu_OfflineTraining"	"Szkolenie Offline"
+"TF_Menu_FindServers"		"Znajdź serwery"
+"TF_Menu_CreateServer"		"Stwórz serwer"
+"TF_Menu_OfflineTraining"	"Szkolenie offline"
 
 "TF_Menu_Loadout"			"Wyposażenie"
 
@@ -1115,9 +1115,9 @@ Własność punktów kontrolnych przez drużyny jest losowana na początku każd
 "TF_Menu_Quit"				"Wyjście"
 "TF_Menu_Disconnect"		"Rozłącz"
 
-"TF_Menu_Blog"				"Oficjalny Blog"
-"TF_Menu_LatestUpdate"		"Najnowsza Aktualizacja"
-"TF_Menu_ReportBug"			"Zgłoś Błąd"
+"TF_Menu_Blog"				"Oficjalny blog"
+"TF_Menu_LatestUpdate"		"Najnowsza aktualizacja"
+"TF_Menu_ReportBug"			"Zgłoś błąd"
 
 "TF_Friends_Title"					"Znajomi (%friend_count%)"
 "TF_Friends_Status_InTF2C"			"Gra w TF2C"
@@ -1181,17 +1181,17 @@ Własność punktów kontrolnych przez drużyny jest losowana na początku każd
 "TF2c_KeyboardCategory_Extra"			"DODATKI"
 "TF2c_UseDefaultsButton"				"Zresetuj klawisze"
 "TF_ClassSkill_Spy_Spywalk"				"SZPIEG: Prędkość Szpiega"
-"TF_Voice_Menu_0_0"						"Komenda Głosowa: MEDYK!"
-"TF_Voice_Menu_0_1"						"Komenda Głosowa: Dzięki!"
-"TF_Voice_Menu_1_0"						"Komenda Głosowa: Nadchodzą"
-"TF_Voice_Menu_1_1"						"Komenda Głosowa: Szpieg!"
-"TF_Voice_Menu_1_2"						"Komenda Głosowa: Przed nami działko!"
-"TF_Voice_Menu_1_3"						"Komenda Głosowa: Teleport, tutaj"
-"TF_Voice_Menu_1_4"						"Komenda Głosowa: Zasobnik, tutaj"
-"TF_Voice_Menu_1_5"						"Komenda Głosowa: Działko, tutaj"
-"TF_Voice_Menu_1_6"						"Komenda Głosowa: Aktywuj ładunek"
-"TF_Voice_Menu_1_7"						"Komenda Głosowa: (MEDYK) Stan ÜberCharge"
-"TF_Voice_Menu_2_0"						"Komenda Głosowa: Pomocy!"
+"TF_Voice_Menu_0_0"						"Komenda głosowa: MEDYK!"
+"TF_Voice_Menu_0_1"						"Komenda głosowa: Dzięki!"
+"TF_Voice_Menu_1_0"						"Komenda głosowa: Nadchodzą"
+"TF_Voice_Menu_1_1"						"Komenda głosowa: Szpieg!"
+"TF_Voice_Menu_1_2"						"Komenda głosowa: Przed nami działko!"
+"TF_Voice_Menu_1_3"						"Komenda głosowa: Teleport, tutaj"
+"TF_Voice_Menu_1_4"						"Komenda głosowa: Zasobnik, tutaj"
+"TF_Voice_Menu_1_5"						"Komenda głosowa: Działko, tutaj"
+"TF_Voice_Menu_1_6"						"Komenda głosowa: Aktywuj ładunek"
+"TF_Voice_Menu_1_7"						"Komenda głosowa: (MEDYK) Stan ÜberCharge"
+"TF_Voice_Menu_2_0"						"Komenda głosowa: Pomocy!"
 "TF_Spec_Next"							"Następny cel do oglądania"
 "TF_Spec_Prev"							"Poprzedni cel do oglądania"
 "TF_Spec_Mode"							"Przełącz tryb widza"
@@ -1202,8 +1202,8 @@ Własność punktów kontrolnych przez drużyny jest losowana na początku każd
 // Scoreboard Options
 "TF_Enable"								"Włącz"
 "TF_Disable"							"Wyłącz"
-"TF_RightClick_Enable"					"Prawy Przycisk, aby włączyć"
-"TF_RightClick_Enable_Mouse"			"Prawy Przycisk, aby włączyć myszkę"
+"TF_RightClick_Enable"					"Prawy przycisk, by włączyć"
+"TF_RightClick_Enable_Mouse"			"Prawy przycisk, by włączyć myszkę"
 
 // UI options
 "TF_Open_Charinfo"						"Otwórz wyposażenie klasy"
@@ -1255,7 +1255,7 @@ Własność punktów kontrolnych przez drużyny jest losowana na początku każd
 
 "GameUI_CloseWithoutSaving"				"Wyjdź bez zapisywania"
 "GameUI_CloseWithoutSavingText" 		"Czy na pewno chcesz wyjść?\n Wszystkie niezapisane zmiany zostaną utracone!"
-"GameUI_Legacy"							"Starsze Menu"
+"GameUI_Legacy"							"Starsze menu"
 "GameUI_Effect_Detail"          		"Detale efektów"
 "GameUI_VeryLow"               			"Poziom b. niski"
 "GameUI_Off"               				"Wyłączone"
