@@ -36,7 +36,7 @@
 "TF_Joined_Game"				"%s1 nimmt jetzt am Spiel teil"
 "TF_Left_Game"					"%s1 hat das Spiel verlassen (%s2)"
 "TF_Joined_Team"				"%s1 ist Team %s2 beigetreten"
-"TF_Name_Change"				"* %s1 hat Namen zu %s2 geändert"
+"TF_Name_Change"				"* %s1 änderte Name zu %s2"
 
 "TF_Team_Balanced"				"%s1 wurde zum Team %s2 verschoben"
 "TF_Autobalance_TeamChangeDone"	"Sie wurden zum Team %s1 verschoben"
